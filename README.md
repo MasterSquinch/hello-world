@@ -1,4 +1,4 @@
 # hello-world
-Tutorial repo
+Tutorial repo.
  following a tutorial
  
